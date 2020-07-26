@@ -1,0 +1,23 @@
+{
+  "name": "kevin",
+  "version": "0.0.1",
+  "description": "Electron IA",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiel025/IA.git"
+  },
+  "author": "The-Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiel025/IA/issues"
+  },
+  "homepage": "https://github.com/Kiel025/IA#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
